@@ -75,4 +75,8 @@ Vladislav Noris - Victor
 ## Images
 
 ![Temperature Sensor](images/03c094e6-0f6c-4473-b9a1-94161aaf35f0.jpg)
+![Temperature Sensor](images/26f456b3-3962-4989-8331-2d2fd8ed6003.jpg)
+![Temperature Sensor](images/6f8dfd0e-21ee-496c-8dd0-9cc1634fda76.jpg)
+![Temperature Sensor](images/87e3703e-ce17-4385-a5ed-6cb5baa3dd24.jpg)
+![Temperature Sensor](images/IMG_6095.png)
 
