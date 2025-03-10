@@ -72,5 +72,7 @@ This project is open-source and can be freely modified and shared.
 ## Author
 Vladislav Noris - Victor
 
+## Images
+
 ![Temperature Sensor](images/03c094e6-0f6c-4473-b9a1-94161aaf35f0.jpg)
 
